@@ -70,6 +70,6 @@ Sou graduando em **Matemática Aplicada pela UFRJ** (previsão Junho/2026), foca
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cockles98&show_icons=true&theme=radical&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cockles98&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cockles98&show_icons=true&theme=radical&hide_border=true" alt="felipe-cockles-stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cockles98&layout=compact&theme=radical&hide_border=true" alt="felipe-cockles-langs" />
 </div>
