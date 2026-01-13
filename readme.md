@@ -20,8 +20,8 @@ Sou graduando em **Matemática Aplicada pela UFRJ** (previsão Junho/2026), foca
 
 * 🔭 **Atualmente:** Pesquisador Cientista de Dados no **LabMA (Fundação COPPETEC)**, validando modelos atuariais de grande escala e pipelines de dados para o mercado segurador.
 * 🏆 **Destaque:** Top 4% (Top 40/953) no **Itaú Quant Challenge 2025**.
-* 💡 **Interesses:** Finanças Quantitativas, Market Microstructure, NLP/LLMs e Engenharia de Dados.
-* 📚 **Formação:** Foco acadêmico em Análise Real, Cálculo Estocástico e Álgebra Linear.
+* 💡 **Interesses:** Finanças Quantitativas, Machine Learning, NLP/LLMs e Engenharia de Dados.
+* 📚 **Formação:** Foco acadêmico em Estatística, Análise Real, Cálculo Estocástico e Álgebra Linear.
 * 🇺🇸 **Idiomas:** Inglês Avançado (C1 - EF SET), Português Nativo.
 
 ---
