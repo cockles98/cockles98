@@ -66,10 +66,3 @@ Sou graduando em **Matemática Aplicada pela UFRJ** (previsão Junho/2026), foca
 
 * **Fundação COPPETEC (LabMA):** Validação de modelos atuariais (SUSEP), ETL em Python/SQL e calibração estatística de curvas de mortalidade.
 * **FGV IBRE:** Implementação de sistemas RAG com LLMs para dados econômicos e pipelines de OCR.
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=cockles98&show_icons=true&theme=radical&hide_border=true" alt="Github Stats" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cockles98&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
