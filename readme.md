@@ -16,7 +16,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou graduando em **Matemática Aplicada pela UFRJ** (previsão Junho/2026), focado na construção de modelos matemáticos robustos para o mercado financeiro e segurador. Tenho experiência em conectar teoria complexa (Processos Estocásticos, EDPs, etc) com código de produção eficiente.
+Sou graduando em **Matemática Aplicada pela UFRJ** (previsão Junho/2026), focado na construção de modelos matemáticos robustos para o mercado financeiro e segurador. Tenho experiência em conectar teoria complexa (Processos Estocásticos, EDPs, etc) em código de produção eficiente.
 
 * 🔭 **Atualmente:** Pesquisador Cientista de Dados no **LabMA (Fundação COPPETEC)**, validando modelos atuariais de grande escala e pipelines de dados para o mercado segurador brasileiro.
 * 🏆 **Destaque:** Top 4% (Top 40/953) no **Itaú Quant Challenge 2025**.
