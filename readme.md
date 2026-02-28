@@ -40,22 +40,6 @@ Models the strategic interaction between high-frequency traders and market maker
 
 ---
 
-### 🛠️ Projetos em Destaque
-
-#### 📈 [Atlas - Estratégia Quantitativa (Itaú Quant Challenge)](https://github.com/cockles98/itau-quant-challenge-2025)
-*Desenvolvimento de uma estratégia Long-Only adaptativa ao regime de mercado.*
-* **Tech:** Python, Scikit-learn, TDA (Topological Data Analysis), HRP (Hierarchical Risk Parity).
-* **Resultado:** Sharpe Ratio de 1.18 com confiança de 88.4%, garantindo posição no Top 40 da competição.
-* **Diferencial:** Combinação de Machine Learning com análise topológica para detecção de regimes.
-
-#### 🧮 [Mean Field Games for Financial Markets](https://github.com/cockles98/mfg-for-financial-market)
-*Pesquisa de graduação sobre modelagem de microestrutura de mercado.*
-* **Tech:** Python (NumPy/SciPy), Métodos de Diferenças Finitas.
-* **Teoria:** Sistema acoplado de EDPs (Hamilton-Jacobi-Bellman e Fokker-Planck).
-* **Aplicação:** Simulação de interação entre HFTs e Market Makers, demonstrando fenômenos de "Liquidity Crunch" com dados da B3 (1986-2025).
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages & Core:**
