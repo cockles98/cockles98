@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Olá, eu sou o Felipe Cockles 👋</h1>
-  <h3>Matemática Aplicada @ UFRJ | Quantitative Finance | Data Science</h3>
+  <h1>Felipe Cockles</h1>
+  <h3>Applied Mathematics @ UFRJ | Quantitative Finance & Data Science</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/felipe-cockles">
@@ -14,15 +14,29 @@
 
 ---
 
-### 🚀 Sobre Mim
+I build quantitative models that connect rigorous mathematical theory — stochastic calculus, PDEs, stochastic processes — with production-ready code. My work spans actuarial modeling, macroeconomic analysis, and quantitative finance, always with a focus on results that are statistically sound and implementable in practice.
 
-Sou graduando em **Matemática Aplicada pela UFRJ** (previsão Junho/2026), focado na construção de modelos matemáticos robustos para o mercado financeiro e segurador. Tenho experiência em conectar teoria complexa (Processos Estocásticos, EDPs, etc) em código de produção eficiente.
+Currently finishing my undergraduate degree in Applied Mathematics at UFRJ (June 2026) and open to freelance projects in quantitative modeling, risk analysis, time series forecasting, and data science for finance.
 
-* 🔭 **Atualmente:** Pesquisador Cientista de Dados no **LabMA (Fundação COPPETEC)**, validando modelos atuariais de grande escala e pipelines de dados para o mercado segurador brasileiro.
-* 🏆 **Destaque:** Top 4% (Top 40/953) no **Itaú Quant Challenge 2025**.
-* 💡 **Interesses:** Finanças Quantitativas, Machine Learning, NLP/LLMs e Engenharia de Dados.
-* 📚 **Formação:** Foco acadêmico em Estatística, Análise Real, Cálculo Estocástico e Álgebra Linear.
-* 🇺🇸 **Idiomas:** Inglês Avançado (C1 - EF SET), Português Nativo.
+---
+
+### 🚀 Featured Projects
+
+#### 📈 [Atlas — Regime-Aware Equity Strategy](https://github.com/cockles98/itau-quant-challenge-2025)
+*Itaú Quant Challenge 2025 — Top 4% (40/953)*
+
+A long-only equity strategy for the Brazilian market that detects market regimes and adapts portfolio allocation accordingly. Combines topological data analysis (persistent homology), factor overlays via Ridge/ElasticNet metamodels, and hierarchical risk parity (HRP) for robust allocation.
+
+- **Result:** Sharpe ratio of 1.18 at 88.4% statistical confidence on out-of-sample Brazilian market data
+- **Stack:** Python, Scikit-learn, Giotto-TDA, Riskfolio-Lib
+
+#### 🧮 [Mean Field Games for Financial Markets](https://github.com/cockles98/mfg-for-financial-market)
+*Undergraduate Research — UFRJ*
+
+Models the strategic interaction between high-frequency traders and market makers using Mean Field Game theory. Solves the coupled HJB–Fokker-Planck PDE system numerically using finite difference methods (Lax-Friedrichs) and Picard iteration. Calibrated with real B3 historical data (1986–2025).
+
+- **Result:** Mathematically demonstrated the emergence of liquidity resilience and liquidity crunch phenomena from agent interaction alone
+- **Stack:** Python, NumPy, SciPy
 
 ---
 
@@ -42,27 +56,33 @@ Sou graduando em **Matemática Aplicada pela UFRJ** (previsão Junho/2026), foca
 
 ---
 
-### 💻 Stack Tecnológico
+### 🛠️ Tech Stack
 
-**Linguagens & Core:**
+**Languages & Core:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-**Data Science & Quant:**
+**Quant & Data Science:**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-**Engenharia & Cloud:**
+**Engineering & Cloud:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 💼 Experiência Profissional Resumida
+### 📐 Areas of Expertise
 
-* **Fundação COPPETEC (LabMA):** Validação de modelos atuariais (SUSEP), ETL em Python/SQL e calibração estatística de curvas de mortalidade.
-* **FGV IBRE:** Implementação de sistemas RAG com LLMs para dados econômicos e pipelines de OCR.
+- **Quantitative Finance:** alpha research, factor models, backtesting (vectorized, purged cross-validation), portfolio optimization (Markowitz, HRP), risk management
+- **Statistical Modeling:** time series (ARIMA, GARCH), survival models, hypothesis testing, regression analysis
+- **Machine Learning:** supervised/unsupervised learning, NLP, LLMs, RAG systems, deep learning
+- **Mathematical Foundations:** stochastic calculus, PDEs, optimization, linear algebra, numerical methods
+
+---
+
+*Open to freelance projects in quantitative modeling and data science — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/felipe-cockles) or [email](mailto:felipe.cockles@hotmail.com).*
