@@ -30,7 +30,7 @@ Four LLM agents (LangGraph) debate PatchTST forecasts and RAG-retrieved news bef
 10-year walk-forward (52 S&P 500 names): **Sharpe 0.77 vs SPY 0.59**, max drawdown −22% vs −34%.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cockles98/titanium-alpha/master/docs/images/capm_scatter_vs_spy.png" width="720" alt="Titanium Alpha — CAPM scatter vs SPY: beta 0.57, annualized alpha +2.57%, R² 0.82">
+  <img src="https://raw.githubusercontent.com/cockles98/titanium-alpha/master/docs/images/benchmark graphs/CAPM Scatter vs SPY.png" width="720" alt="Titanium Alpha — CAPM scatter vs SPY: beta 0.57, annualized alpha +2.57%, R² 0.82">
 </p>
 
 **🧮 [Mean Field Games for market microstructure](https://github.com/cockles98/mfg-for-financial-market)** · undergraduate research, UFRJ
