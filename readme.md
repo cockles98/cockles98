@@ -17,7 +17,7 @@ I turn stochastic calculus, statistics and numerical methods into trading and ri
 
 ### Featured work
 
-**📈 [Atlas — regime-aware equity strategy](https://github.com/cockles98/itau-quant-challenge-2025)** · Itaú Quant Challenge 2025, **top 4%** (40/953)
+**📈 [Atlas — regime-aware equity strategy](https://github.com/cockles98/itau-quant-challenge-2025)** · Itaú Quant Challenge 2025, **top 4%** (40/953) ·
 Long-only Ibovespa strategy: regime detection via topological data analysis, factor meta-models (Ridge/ElasticNet), regime-sensitive HRP allocation.
 Out-of-sample **Sharpe 1.18** vs 0.55 benchmark · Sortino 1.90 · validated with a Deflated Sharpe test.
 
@@ -25,11 +25,11 @@ Out-of-sample **Sharpe 1.18** vs 0.55 benchmark · Sortino 1.90 · validated wit
   <img src="https://raw.githubusercontent.com/cockles98/itau-quant-challenge-2025/Main/data/readme_assets/equity_curve_comparison_v2.png" width="720" alt="Atlas equity curve vs Ibovespa">
 </p>
 
-**🤖 [Titanium Alpha — agentic multi-strategy fund](https://github.com/cockles98/titanium-alpha)**
+**🤖 [Titanium Alpha — agentic multi-strategy fund](https://github.com/cockles98/titanium-alpha)** ·
 Four LLM agents (LangGraph) debate PatchTST forecasts and RAG-retrieved news before capital is allocated via HRP with Ledoit–Wolf shrinkage. 1,000+ tests, CI, CPCV grid search over 547 configs.
 10-year walk-forward (52 S&P 500 names): **Sharpe 0.77 vs SPY 0.59**, max drawdown −22% vs −34%.
 
-**🧮 [Mean Field Games for market microstructure](https://github.com/cockles98/mfg-for-financial-market)** · undergraduate research, UFRJ
+**🧮 [Mean Field Games for market microstructure](https://github.com/cockles98/mfg-for-financial-market)** · undergraduate research, UFRJ ·
 Numerically solves the coupled HJB–Fokker–Planck system (finite differences + Picard iteration) to model HFT ↔ market-maker dynamics, calibrated on B3 data.
 Shows liquidity resilience and liquidity-crunch regimes emerging from agent interaction alone.
 
