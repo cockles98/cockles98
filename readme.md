@@ -29,17 +29,9 @@ Out-of-sample **Sharpe 1.18** vs 0.55 benchmark · Sortino 1.90 · validated wit
 Four LLM agents (LangGraph) debate PatchTST forecasts and RAG-retrieved news before capital is allocated via HRP with Ledoit–Wolf shrinkage. 1,000+ tests, CI, CPCV grid search over 547 configs.
 10-year walk-forward (52 S&P 500 names): **Sharpe 0.77 vs SPY 0.59**, max drawdown −22% vs −34%.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cockles98/titanium-alpha/master/docs/images/benchmark graphs/CAPM Scatter vs SPY.png" width="720" alt="Titanium Alpha — CAPM scatter vs SPY: beta 0.57, annualized alpha +2.57%, R² 0.82">
-</p>
-
 **🧮 [Mean Field Games for market microstructure](https://github.com/cockles98/mfg-for-financial-market)** · undergraduate research, UFRJ
 Numerically solves the coupled HJB–Fokker–Planck system (finite differences + Picard iteration) to model HFT ↔ market-maker dynamics, calibrated on B3 data.
 Shows liquidity resilience and liquidity-crunch regimes emerging from agent interaction alone.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cockles98/mfg-for-financial-market/main/reports/readme_images/density_animation.gif" width="720" alt="Fokker–Planck density evolution from the MFG solver">
-</p>
 
 ---
 
